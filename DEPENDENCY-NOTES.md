@@ -12,3 +12,7 @@ lang: en
 ## turbo-fake
 
 Root-level tooling note.
+
+## lodash
+
+same note
