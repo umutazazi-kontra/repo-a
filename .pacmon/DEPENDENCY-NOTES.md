@@ -9,10 +9,10 @@ lang: en
 
 # Dependency Notes
 
-## turbo-fake
-
-Root-level tooling note.
-
 ## lodash
 
-same note
+same note jj
+
+## turbo-fake
+
+Root-level tooling note. dfsfsf
